@@ -1,0 +1,7 @@
+
+/*--  FUNDO --*/
+
+.w3-white, .w3-hover-white:hover {
+    color: #fff!important;
+    background-color: #181818!important;
+}
